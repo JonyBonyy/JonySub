@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JonySub", "JonySub.csproj", "{B98543FC-58B6-4768-94EC-E1AC02D5FF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98543FC-58B6-4768-94EC-E1AC02D5FF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98543FC-58B6-4768-94EC-E1AC02D5FF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98543FC-58B6-4768-94EC-E1AC02D5FF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98543FC-58B6-4768-94EC-E1AC02D5FF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
